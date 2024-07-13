@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\papil\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC870\uBCC4\uC2E4\uC2B5\\Account_CRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\papil\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC870\uBCC4\uC2E4\uC2B5\\0328_\uC870\uBCC4\uACFC\uC81C\\0328_\uC870\uBCC4\uACFC\uC81C\\start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\papil\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC870\uBCC4\uC2E4\uC2B5\\0328_\uC870\uBCC4\uACFC\uC81C\\0328_\uC870\uBCC4\uACFC\uC81C\\Container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "start.cs",
+              "DocumentMoniker": "C:\\Users\\papil\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC870\uBCC4\uC2E4\uC2B5\\0328_\uC870\uBCC4\uACFC\uC81C\\0328_\uC870\uBCC4\uACFC\uC81C\\start.cs",
+              "RelativeDocumentMoniker": "..\\0328_\uC870\uBCC4\uACFC\uC81C\\0328_\uC870\uBCC4\uACFC\uC81C\\start.cs",
+              "ToolTip": "C:\\Users\\papil\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC870\uBCC4\uC2E4\uC2B5\\0328_\uC870\uBCC4\uACFC\uC81C\\0328_\uC870\uBCC4\uACFC\uC81C\\start.cs",
+              "RelativeToolTip": "..\\0328_\uC870\uBCC4\uACFC\uC81C\\0328_\uC870\uBCC4\uACFC\uC81C\\start.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T02:18:17.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Container.cs",
+              "DocumentMoniker": "C:\\Users\\papil\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC870\uBCC4\uC2E4\uC2B5\\0328_\uC870\uBCC4\uACFC\uC81C\\0328_\uC870\uBCC4\uACFC\uC81C\\Container.cs",
+              "RelativeDocumentMoniker": "..\\0328_\uC870\uBCC4\uACFC\uC81C\\0328_\uC870\uBCC4\uACFC\uC81C\\Container.cs",
+              "ToolTip": "C:\\Users\\papil\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC870\uBCC4\uC2E4\uC2B5\\0328_\uC870\uBCC4\uACFC\uC81C\\0328_\uC870\uBCC4\uACFC\uC81C\\Container.cs",
+              "RelativeToolTip": "..\\0328_\uC870\uBCC4\uACFC\uC81C\\0328_\uC870\uBCC4\uACFC\uC81C\\Container.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T02:18:14.986Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

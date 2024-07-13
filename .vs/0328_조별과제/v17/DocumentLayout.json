@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\papil\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Account_CRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7ED3135-CB4C-49C6-A0A4-BBE366625AE2}|0328_\uC870\uBCC4\uACFC\uC81C\\Account_CRUD.csproj|c:\\users\\papil\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\account_crud\\0328_\uC870\uBCC4\uACFC\uC81C\\wblib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7ED3135-CB4C-49C6-A0A4-BBE366625AE2}|0328_\uC870\uBCC4\uACFC\uC81C\\Account_CRUD.csproj|solutionrelative:0328_\uC870\uBCC4\uACFC\uC81C\\wblib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7ED3135-CB4C-49C6-A0A4-BBE366625AE2}|0328_\uC870\uBCC4\uACFC\uC81C\\Account_CRUD.csproj|C:\\Users\\papil\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Account_CRUD\\0328_\uC870\uBCC4\uACFC\uC81C\\Container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7ED3135-CB4C-49C6-A0A4-BBE366625AE2}|0328_\uC870\uBCC4\uACFC\uC81C\\Account_CRUD.csproj|solutionrelative:0328_\uC870\uBCC4\uACFC\uC81C\\Container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7ED3135-CB4C-49C6-A0A4-BBE366625AE2}|0328_\uC870\uBCC4\uACFC\uC81C\\Account_CRUD.csproj|C:\\Users\\papil\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Account_CRUD\\0328_\uC870\uBCC4\uACFC\uC81C\\Data\\FaithAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7ED3135-CB4C-49C6-A0A4-BBE366625AE2}|0328_\uC870\uBCC4\uACFC\uC81C\\Account_CRUD.csproj|solutionrelative:0328_\uC870\uBCC4\uACFC\uC81C\\Data\\FaithAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7ED3135-CB4C-49C6-A0A4-BBE366625AE2}|0328_\uC870\uBCC4\uACFC\uC81C\\Account_CRUD.csproj|C:\\Users\\papil\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Account_CRUD\\0328_\uC870\uBCC4\uACFC\uC81C\\start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7ED3135-CB4C-49C6-A0A4-BBE366625AE2}|0328_\uC870\uBCC4\uACFC\uC81C\\Account_CRUD.csproj|solutionrelative:0328_\uC870\uBCC4\uACFC\uC81C\\start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7ED3135-CB4C-49C6-A0A4-BBE366625AE2}|0328_\uC870\uBCC4\uACFC\uC81C\\Account_CRUD.csproj|C:\\Users\\papil\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Account_CRUD\\0328_\uC870\uBCC4\uACFC\uC81C\\Data\\ContriAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7ED3135-CB4C-49C6-A0A4-BBE366625AE2}|0328_\uC870\uBCC4\uACFC\uC81C\\Account_CRUD.csproj|solutionrelative:0328_\uC870\uBCC4\uACFC\uC81C\\Data\\ContriAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7ED3135-CB4C-49C6-A0A4-BBE366625AE2}|0328_\uC870\uBCC4\uACFC\uC81C\\Account_CRUD.csproj|C:\\Users\\papil\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Account_CRUD\\0328_\uC870\uBCC4\uACFC\uC81C\\choice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7ED3135-CB4C-49C6-A0A4-BBE366625AE2}|0328_\uC870\uBCC4\uACFC\uC81C\\Account_CRUD.csproj|solutionrelative:0328_\uC870\uBCC4\uACFC\uC81C\\choice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7ED3135-CB4C-49C6-A0A4-BBE366625AE2}|0328_\uC870\uBCC4\uACFC\uC81C\\Account_CRUD.csproj|C:\\Users\\papil\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Account_CRUD\\0328_\uC870\uBCC4\uACFC\uC81C\\Data\\Account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7ED3135-CB4C-49C6-A0A4-BBE366625AE2}|0328_\uC870\uBCC4\uACFC\uC81C\\Account_CRUD.csproj|solutionrelative:0328_\uC870\uBCC4\uACFC\uC81C\\Data\\Account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WbLib.cs",
+              "DocumentMoniker": "C:\\Users\\papil\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Account_CRUD\\0328_\uC870\uBCC4\uACFC\uC81C\\WbLib.cs",
+              "RelativeDocumentMoniker": "0328_\uC870\uBCC4\uACFC\uC81C\\WbLib.cs",
+              "ToolTip": "C:\\Users\\papil\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Account_CRUD\\0328_\uC870\uBCC4\uACFC\uC81C\\WbLib.cs",
+              "RelativeToolTip": "0328_\uC870\uBCC4\uACFC\uC81C\\WbLib.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T06:44:44.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Container.cs",
+              "DocumentMoniker": "C:\\Users\\papil\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Account_CRUD\\0328_\uC870\uBCC4\uACFC\uC81C\\Container.cs",
+              "RelativeDocumentMoniker": "0328_\uC870\uBCC4\uACFC\uC81C\\Container.cs",
+              "ToolTip": "C:\\Users\\papil\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Account_CRUD\\0328_\uC870\uBCC4\uACFC\uC81C\\Container.cs",
+              "RelativeToolTip": "0328_\uC870\uBCC4\uACFC\uC81C\\Container.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T06:44:44.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FaithAccount.cs",
+              "DocumentMoniker": "C:\\Users\\papil\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Account_CRUD\\0328_\uC870\uBCC4\uACFC\uC81C\\Data\\FaithAccount.cs",
+              "RelativeDocumentMoniker": "0328_\uC870\uBCC4\uACFC\uC81C\\Data\\FaithAccount.cs",
+              "ToolTip": "C:\\Users\\papil\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Account_CRUD\\0328_\uC870\uBCC4\uACFC\uC81C\\Data\\FaithAccount.cs",
+              "RelativeToolTip": "0328_\uC870\uBCC4\uACFC\uC81C\\Data\\FaithAccount.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvwcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T06:44:44.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "start.cs",
+              "DocumentMoniker": "C:\\Users\\papil\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Account_CRUD\\0328_\uC870\uBCC4\uACFC\uC81C\\start.cs",
+              "RelativeDocumentMoniker": "0328_\uC870\uBCC4\uACFC\uC81C\\start.cs",
+              "ToolTip": "C:\\Users\\papil\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Account_CRUD\\0328_\uC870\uBCC4\uACFC\uC81C\\start.cs",
+              "RelativeToolTip": "0328_\uC870\uBCC4\uACFC\uC81C\\start.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T06:44:44.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContriAccount.cs",
+              "DocumentMoniker": "C:\\Users\\papil\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Account_CRUD\\0328_\uC870\uBCC4\uACFC\uC81C\\Data\\ContriAccount.cs",
+              "RelativeDocumentMoniker": "0328_\uC870\uBCC4\uACFC\uC81C\\Data\\ContriAccount.cs",
+              "ToolTip": "C:\\Users\\papil\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Account_CRUD\\0328_\uC870\uBCC4\uACFC\uC81C\\Data\\ContriAccount.cs",
+              "RelativeToolTip": "0328_\uC870\uBCC4\uACFC\uC81C\\Data\\ContriAccount.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAzwB0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T06:44:44.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "choice.cs",
+              "DocumentMoniker": "C:\\Users\\papil\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Account_CRUD\\0328_\uC870\uBCC4\uACFC\uC81C\\choice.cs",
+              "RelativeDocumentMoniker": "0328_\uC870\uBCC4\uACFC\uC81C\\choice.cs",
+              "ToolTip": "C:\\Users\\papil\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Account_CRUD\\0328_\uC870\uBCC4\uACFC\uC81C\\choice.cs",
+              "RelativeToolTip": "0328_\uC870\uBCC4\uACFC\uC81C\\choice.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvwgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T06:44:44.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\papil\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Account_CRUD\\0328_\uC870\uBCC4\uACFC\uC81C\\Data\\Account.cs",
+              "RelativeDocumentMoniker": "0328_\uC870\uBCC4\uACFC\uC81C\\Data\\Account.cs",
+              "ToolTip": "C:\\Users\\papil\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Account_CRUD\\0328_\uC870\uBCC4\uACFC\uC81C\\Data\\Account.cs",
+              "RelativeToolTip": "0328_\uC870\uBCC4\uACFC\uC81C\\Data\\Account.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAADwvyEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T06:44:44.882Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
