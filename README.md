@@ -1,4 +1,15 @@
+# Account
 
+## 🌻Description
+This is a C# application designed for comprehensive account management. The project aims to enhance understanding of financial application development within the .NET environment, offering a practical implementation of key banking operations.
+
+- Understanding financial application development in the .NET environment.
+- Implementing account management tasks (account creation, deposit, withdrawal, balance inquiry).
+
+## 🌻Getting Started
+- Development Environment: Windows 10 Pro
+- Development Tools: Visual Studio Community 2019
+- Technology Stack: C#, .NET Framework
 
 ## 🌻Result
 <img width="500" src="https://github.com/user-attachments/assets/61b02e2c-dae3-473c-b96c-afc0ae8beaab" alt="Image 1">
